@@ -22,25 +22,3 @@ CSS: Custom styling for a modern, Spotify-inspired look and feel.
 iTunes Search API: Used to fetch song and artist data.
 
 Lyrics.ovh API: Used to fetch song lyrics.
-
-Getting Started 🚀
-Clone the repository:
-
-Bash
-
-git clone <your-repo-url>
-Navigate to the project directory:
-
-Bash
-
-cd music-land-app
-Install dependencies:
-
-Bash
-
-npm install
-Run the app:
-
-Bash
-
-npm run dev
