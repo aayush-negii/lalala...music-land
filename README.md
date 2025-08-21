@@ -22,3 +22,7 @@ CSS: Custom styling for a modern, Spotify-inspired look and feel.
 iTunes Search API: Used to fetch song and artist data.
 
 Lyrics.ovh API: Used to fetch song lyrics.
+
+
+🎬 Demo
+!Watch the video(https://drive.google.com/file/d/1IStTh8AVS-8dRXOm9KbEy4RJacbw_gAH/view?usp=sharing)
