@@ -30,5 +30,3 @@ A sleek, single-player **music discovery app** built with **React**, inspired by
 
 ---
 
-git clone https://github.com/your-username/music-land.git
-cd music-land
