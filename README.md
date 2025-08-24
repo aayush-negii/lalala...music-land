@@ -29,4 +29,4 @@ A sleek, single-player **music discovery app** built with **React**, inspired by
 ▶️ [Watch the Demo Video](https://drive.google.com/file/d/1IStTh8AVS-8dRXOm9KbEy4RJacbw_gAH/view?usp=sharing)  
 
 ---
-Visite site !! (https://lalala-music-land-5ha3.vercel.app/)
+ [Visit Site](https://lalala-music-land-5ha3.vercel.app/)  
