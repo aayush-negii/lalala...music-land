@@ -1,5 +1,5 @@
-# 🎵 lalalala...MUSIC LAND  
-
+# 🎵 lalalala...MUSIC LAND    
+ [Visit Site](https://lalala-music-land-5ha3.vercel.app/)  
 A sleek, single-player **music discovery app** built with **React**, inspired by Spotify's minimalist design. Search for your favorite songs, get instant suggestions, and enjoy an endless, curated playlist powered by the iTunes API.  
 
 ---
@@ -29,4 +29,4 @@ A sleek, single-player **music discovery app** built with **React**, inspired by
 ▶️ [Watch the Demo Video](https://drive.google.com/file/d/1IStTh8AVS-8dRXOm9KbEy4RJacbw_gAH/view?usp=sharing)  
 
 ---
- [Visit Site](https://lalala-music-land-5ha3.vercel.app/)  
+
